@@ -1,0 +1,2 @@
+# Jenkins_autobuild_cocoscreator
+Jenkins 与 cocosCreator 深度定制的自动化构建过程
