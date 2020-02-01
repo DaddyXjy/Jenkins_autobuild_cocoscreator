@@ -1,0 +1,30 @@
+{
+    "DOWNLOAD_URL_ONLINE": "http://m.6929.com",
+    "DOWNLOAD_URL_TEST": "http://m.6929.com",
+    "DOWNLOAD_URL_YFB": "http://m10.huihuang200.com",
+    "HTTP_BASE_URL_ONLINE": "http://lobby1.huihuang100.com/",
+    "HTTP_BASE_URL_OPEN": "http://lobby9.wg-dns-prod.com/",
+    "HTTP_BASE_URL_TEST": "http://lobby.test103.com/",
+    "HTTP_BASE_URL_YFB": "http://lobby6.huihuang200.com/",
+    "WEBSOCKET_BASE_URL_ONLINE": "ws://lobby1.huihuang100.com:7010/ws",
+    "WEBSOCKET_BASE_URL_OPEN": "ws://lobby9.wg-dns-prod.com:7010/ws",
+    "WEBSOCKET_BASE_URL_TEST": "ws://www.wangguan001.com:8003/ws",
+    "WEBSOCKET_BASE_URL_YFB": "ws://172.20.101.9:8003/se",
+    "ipDetect" : "http://clientip.wgqp.net/index.php",
+    "appName": "新框架测试",
+    "bigVersion_TEST": "1",
+    "customerMark": "test103",
+    "dependRes": "master",
+    "h5_game_urls": [
+        "g.huihuang300.com"
+    ],
+    "openinstallKey": "fvkuwl",
+    "openinstallKey_TEST": "ye4v3v",
+    "packageName": "org.cocos2d.test103",
+    "stationMark_TEST": "36979",
+    "stationMark_YFB": "36979",
+    "stationMark_ONLINE": "36979",
+    "wechatID_ONLINE": "",
+    "wechatID_YFB": "wx95c125d594a479dd",
+    "wechatID_TEST": "wx95c125d594a479dd"
+}
